@@ -53,4 +53,4 @@ pre,code{font-family:&quot;Courier New&quot;,Courier,Monospace;color:inherit;
 @media screen and (max-width:646px) {#outer-wrapper {width:95%; margin:10px auto;}#main-wrapper {margin:5px;width:61%;}#sidebar-wrapper {margin:5px;width:33%;}}
 @media screen and (max-width:600px) {#sidebar-wrapper,#main-wrapper {display:block;
 float:none;width:auto;padding:1%;}#first-nav-wrapper {display:block;float:none;width:auto;}#first-nav li a, first-nav li  {float:none;display:block;width:auto;text-align:center;}}
-.post-thumbnail{width:72px;height:72px;float:left;margin-right:10px;word-wrap:break-word;}.post-snippet:before{content:attr(data-snippet);word-wrap:break-word;}
+.post-thumbnail{width:52px;height:52px;float:left;margin-right:10px;word-wrap:break-word;}.post-snippet:before{content:attr(data-snippet);word-wrap:break-word;}
